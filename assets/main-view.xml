@@ -1,0 +1,3 @@
+<vbox style="padding: 5px;" width="100%" height="100%">
+  <scroll id="scrollbar" width="100%" pos="0" pageSize="50" styleName="classic-scrolls" />
+</vbox>
